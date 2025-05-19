@@ -1,0 +1,60 @@
+2025-05-12 22:09:52,127 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7328515791:AAGfDjpJ8uV-IGuIwrYZSi6HVrbu41MRwk4/setWebhook "HTTP/1.1 200 OK"
+2025-05-12 22:09:52,128 - __main__ - INFO - Webhook set to https://your-ngrok-id.ngrok.io/telegram
+2025-05-12 22:09:52,129 - __main__ - INFO - Starting webhook server on port 8443
+2025-05-12 23:45:51,661 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7328515791:AAGfDjpJ8uV-IGuIwrYZSi6HVrbu41MRwk4/setWebhook "HTTP/1.1 200 OK"
+2025-05-12 23:45:51,665 - __main__ - INFO - Webhook set to https://your-ngrok-id.ngrok.io/telegram
+2025-05-12 23:45:51,666 - __main__ - INFO - Starting webhook server on port 8443
+2025-05-12 23:46:48,906 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7328515791:AAGfDjpJ8uV-IGuIwrYZSi6HVrbu41MRwk4/setWebhook "HTTP/1.1 200 OK"
+2025-05-12 23:46:48,907 - __main__ - INFO - Webhook set to https://your-ngrok-id.ngrok.io/telegram
+2025-05-12 23:46:48,908 - __main__ - INFO - Starting webhook server on port 8443
+2025-05-12 23:50:55,842 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7328515791:AAGfDjpJ8uV-IGuIwrYZSi6HVrbu41MRwk4/setWebhook "HTTP/1.1 200 OK"
+2025-05-12 23:50:55,844 - __main__ - INFO - Webhook set to https://your-ngrok-id.ngrok.io/telegram
+2025-05-12 23:50:55,845 - __main__ - INFO - Starting webhook server on port 8443
+2025-05-12 23:56:58,387 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7328515791:AAGfDjpJ8uV-IGuIwrYZSi6HVrbu41MRwk4/setWebhook "HTTP/1.1 200 OK"
+2025-05-12 23:56:58,389 - __main__ - INFO - Webhook set to https://1234-5678.ngrok.io/telegram
+2025-05-12 23:56:58,389 - __main__ - INFO - Starting webhook server on port 8443
+2025-05-13 00:22:07,330 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7328515791:AAGfDjpJ8uV-IGuIwrYZSi6HVrbu41MRwk4/setWebhook "HTTP/1.1 200 OK"
+2025-05-13 00:22:07,334 - __main__ - INFO - Webhook set to https://1234-5678.ngrok.io/telegram
+2025-05-13 00:22:07,335 - __main__ - INFO - Starting webhook server on port 8443
+2025-05-13 00:28:09,572 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7328515791:AAGfDjpJ8uV-IGuIwrYZSi6HVrbu41MRwk4/setWebhook "HTTP/1.1 200 OK"
+2025-05-13 00:28:09,574 - __main__ - INFO - Webhook set to https://ade2-185-213-230-60.ngrok-free.app/telegram
+2025-05-13 00:28:09,575 - __main__ - INFO - Starting webhook server on port 8443
+2025-05-13 00:36:30,756 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7328515791:AAGfDjpJ8uV-IGuIwrYZSi6HVrbu41MRwk4/setWebhook "HTTP/1.1 200 OK"
+2025-05-13 00:36:30,757 - __main__ - INFO - Webhook set to https://0312-185-213-230-60.ngrok-free.app/telegram
+2025-05-13 00:36:30,758 - __main__ - INFO - Starting webhook server on port 8443
+2025-05-13 00:46:34,553 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7328515791:AAGfDjpJ8uV-IGuIwrYZSi6HVrbu41MRwk4/setWebhook "HTTP/1.1 200 OK"
+2025-05-13 00:46:34,557 - __main__ - INFO - Webhook set to https://0312-185-213-230-60.ngrok-free.app/telegram
+2025-05-13 00:46:34,558 - __main__ - INFO - Starting webhook server on port 8443
+2025-05-13 00:50:14,210 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7328515791:AAGfDjpJ8uV-IGuIwrYZSi6HVrbu41MRwk4/setWebhook "HTTP/1.1 200 OK"
+2025-05-13 00:50:14,211 - __main__ - INFO - Webhook set to https://4239-185-213-230-60.ngrok-free.app/telegram
+2025-05-13 00:50:14,212 - __main__ - INFO - Starting webhook server on port 8443
+2025-05-13 00:54:37,872 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7328515791:AAGfDjpJ8uV-IGuIwrYZSi6HVrbu41MRwk4/setWebhook "HTTP/1.1 200 OK"
+2025-05-13 00:54:37,874 - __main__ - INFO - Webhook set to https://4239-185-213-230-60.ngrok-free.app/telegram
+2025-05-13 00:54:37,875 - __main__ - INFO - Starting webhook server on port 8443
+2025-05-13 01:08:42,899 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7328515791:AAGfDjpJ8uV-IGuIwrYZSi6HVrbu41MRwk4/setWebhook "HTTP/1.1 400 Bad Request"
+2025-05-13 01:08:42,900 - __main__ - ERROR - Failed to set webhook: Bad webhook: an https url must be provided for webhook
+2025-05-13 01:09:06,951 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7328515791:AAGfDjpJ8uV-IGuIwrYZSi6HVrbu41MRwk4/setWebhook "HTTP/1.1 400 Bad Request"
+2025-05-13 01:09:06,953 - __main__ - ERROR - Failed to set webhook: Bad webhook: an https url must be provided for webhook
+2025-05-13 01:10:31,875 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7328515791:AAGfDjpJ8uV-IGuIwrYZSi6HVrbu41MRwk4/setWebhook "HTTP/1.1 200 OK"
+2025-05-13 01:10:31,876 - __main__ - INFO - Webhook set to https://20d1-185-213-230-60.ngrok-free.app/telegram
+2025-05-13 01:10:31,876 - __main__ - INFO - Starting webhook server on port 8443
+2025-05-13 01:12:20,603 - __main__ - INFO - Received webhook request from Telegram
+2025-05-13 01:12:20,603 - __main__ - ERROR - Webhook handler error: Expecting value: line 1 column 1 (char 0)
+2025-05-13 01:12:20,604 - aiohttp.access - INFO - 127.0.0.1 [13/May/2025:01:12:20 +0500] "POST /telegram HTTP/1.1" 500 131 "-" "curl/8.5.0"
+2025-05-13 01:12:26,670 - __main__ - INFO - Received webhook request from Telegram
+2025-05-13 01:12:26,670 - __main__ - ERROR - Webhook handler error: Expecting value: line 1 column 1 (char 0)
+2025-05-13 01:12:26,670 - aiohttp.access - INFO - 127.0.0.1 [13/May/2025:01:12:26 +0500] "POST /telegram HTTP/1.1" 500 131 "-" "curl/8.5.0"
+2025-05-13 09:34:54,988 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7328515791:AAGfDjpJ8uV-IGuIwrYZSi6HVrbu41MRwk4/setWebhook "HTTP/1.1 200 OK"
+2025-05-13 09:34:54,992 - __main__ - INFO - Webhook set to https://20d1-185-213-230-60.ngrok-free.app/telegram
+2025-05-13 09:34:54,993 - __main__ - INFO - Starting webhook server on port 8443
+2025-05-13 09:58:28,830 - __main__ - INFO - Webhook serveri 8443 portida ishga tushdi
+2025-05-13 09:58:28,830 - pyngrok.ngrok - INFO - Opening tunnel named: http-80-9c3beef3-9744-49da-9adf-5e3e41b23f40
+2025-05-13 09:58:42,310 - pyngrok.process.ngrok - INFO - t=2025-05-13T09:58:42+0500 lvl=info msg="no configuration paths supplied"
+2025-05-13 09:58:42,310 - pyngrok.process.ngrok - INFO - t=2025-05-13T09:58:42+0500 lvl=info msg="using configuration at default config path" path=/home/rustambek/.config/ngrok/ngrok.yml
+2025-05-13 09:58:42,310 - pyngrok.process.ngrok - INFO - t=2025-05-13T09:58:42+0500 lvl=info msg="open config file" path=/home/rustambek/.config/ngrok/ngrok.yml err=nil
+2025-05-13 09:58:42,363 - pyngrok.process.ngrok - INFO - t=2025-05-13T09:58:42+0500 lvl=info msg="starting web service" obj=web addr=127.0.0.1:4040 allow_hosts=[]
+2025-05-13 09:58:43,476 - pyngrok.process.ngrok - ERROR - t=2025-05-13T09:58:43+0500 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="authentication failed: Usage of ngrok requires a verified account and authtoken.\n\nSign up for an account: https://dashboard.ngrok.com/signup\nInstall your authtoken: https://dashboard.ngrok.com/get-started/your-authtoken\r\n\r\nERR_NGROK_4018\r\n"
+2025-05-13 09:58:43,477 - pyngrok.process.ngrok - ERROR - t=2025-05-13T09:58:43+0500 lvl=eror msg="session closing" obj=tunnels.session err="authentication failed: Usage of ngrok requires a verified account and authtoken.\n\nSign up for an account: https://dashboard.ngrok.com/signup\nInstall your authtoken: https://dashboard.ngrok.com/get-started/your-authtoken\r\n\r\nERR_NGROK_4018\r\n"
+2025-05-13 09:58:43,477 - pyngrok.process.ngrok - INFO - t=2025-05-13T09:58:43+0500 lvl=info msg="received stop request" obj=app stopReq="{err:{Remote:true Inner:{Inner:0xc00088c4a0}} restart:false}"
+2025-05-13 09:58:43,477 - pyngrok.process.ngrok - ERROR - t=2025-05-13T09:58:43+0500 lvl=eror msg="terminating with error" obj=app err="authentication failed: Usage of ngrok requires a verified account and authtoken.\n\nSign up for an account: https://dashboard.ngrok.com/signup\nInstall your authtoken: https://dashboard.ngrok.com/get-started/your-authtoken\r\n\r\nERR_NGROK_4018\r\n"
+2025-05-13 09:58:43,477 - pyngrok.process.ngrok - CRITICAL - t=2025-05-13T09:58:43+0500 lvl=crit msg="command failed" err="authentication failed: Usage of ngrok requires a verified account and authtoken.\n\nSign up for an account: https://dashboard.ngrok.com/signup\nInstall your authtoken: https://dashboard.ngrok.com/get-started/your-authtoken\r\n\r\nERR_NGROK_4018\r\n"
