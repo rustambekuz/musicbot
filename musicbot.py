@@ -61,7 +61,7 @@ def download_audio(query: str):
 
 @dp.message(CommandStart())
 async def start(message: Message):
-    await message.answer("🎧 Salom! Menga musiqa nomini yozing.\nMasalan: `Shoxrux - Guli`", parse_mode=ParseMode.HTML)
+    await message.answer("🎧 Salom! Menga musiqa nomini yozing.\nMasalan: `Jaloliddin Ahmadaliyev - janona`", parse_mode=ParseMode.HTML)
 
 
 @dp.message(F.text)
@@ -71,7 +71,6 @@ async def handle_music(message: Message):
         f"⏳ <b>Qo‘shiq izlanmoqda...</b>\n🎧 <i>{query}</i>",
         parse_mode="HTML"
     )
-
 
 
     try:
